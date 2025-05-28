@@ -1,6 +1,7 @@
 # Descripción del funcionamiento
 
-Parte 1. Diseño e implementación de un programa en Java – Ejercicio practico
+Diseño e implementación de un programa en Java – Ejercicio practico
+
 Vamos a diseñar un programa que reciba dos arreglos de enteros (A y B) y realice algunas operaciones básicas.
 El programa debe permitir:
 1. Recibir por consola el tamaño de los arreglos; ambos arreglos tendrán la misma longitud y debe ser menor o
